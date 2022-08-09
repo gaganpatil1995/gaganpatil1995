@@ -1,4 +1,5 @@
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" >
+[![MasterHead](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
 
