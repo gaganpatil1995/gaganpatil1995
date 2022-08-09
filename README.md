@@ -1,6 +1,7 @@
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" >
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganpatil1995&label=Profile%20views&color=0e75b6&style=flat" alt="gaganpatil1995" /> </p>
 
 - 🔭 I’m currently working on [New Project](https://www.google.com/search?q=dummy+link&oq=dummy+link&aqs=chrome..69i57j0i512l9.6130j0j7&sourceid=chrome&ie=UTF-8)
