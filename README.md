@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [New Project](https://www.google.com/search?q=dummy+link&oq=dummy+link&aqs=chrome..69i57j0i512l9.6130j0j7&sourceid=chrome&ie=UTF-8)
 
-- 👨‍💻 All of my projects are available at [https://www.google.com/search?q=dummy+link&oq=dummy+link&aqs=chrome..69i57j0i512l9.6130j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=dummy+link&oq=dummy+link&aqs=chrome..69i57j0i512l9.6130j0j7&sourceid=chrome&ie=UTF-8)
+- 👨‍💻 All of my projects are available at (https://patilgagan.dev.voyage)
 
 - 💬 Ask me about **Java, Spring Boot , Hibernate, MySQL**
 
