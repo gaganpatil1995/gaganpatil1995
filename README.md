@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [REST Api Projects(Online Food Delivery)](https://www.google.com/search?q=dummy+link&oq=dummy+link&aqs=chrome..69i57j0i512l9.6130j0j7&sourceid=chrome&ie=UTF-8)
 
-- 👨‍💻 All of my projects are available at (https://velvety-custard-8e1364.netlify.app/#project)
+- 👨‍💻 All of my projects are available at (https://dapper-douhua-05d30d.netlify.app/?#project)
 
 - 💬 Ask me about **Java, Spring Boot ,Hibernate ,MySQL ,Java Script ,HTML ,CSS**
 
 - 📫 How to reach me **patilgagan1995@gmail.com**
 
-- 📄 Know about my experiences (https://velvety-custard-8e1364.netlify.app/)
+- 📄 Know about my experiences (https://dapper-douhua-05d30d.netlify.app/?#home)
 
 - ⚡ Fun fact **I think I can Dance**
 
