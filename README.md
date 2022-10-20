@@ -1,7 +1,7 @@
 [![MasterHead](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Gagan</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
+<h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganpatil1995&label=Profile%20views&color=0e75b6&style=flat" alt="gaganpatil1995" /> </p>
 
